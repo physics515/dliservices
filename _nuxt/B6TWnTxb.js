@@ -1,0 +1,1 @@
+import{_ as t,c as a,o as e,a6 as r}from"#entry";const n={},s={class:"font-Cormorant-Garamond",style:{"font-family":"'Cormorant Garamond', serif !important"}};function c(o,f){return e(),a("div",s,[r(o.$slots,"default")])}const _=t(n,[["render",c]]);export{_ as default};
